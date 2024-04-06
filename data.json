@@ -1,12 +1,87 @@
-  [
-      { "id_etudiant": "00", "nom": "Aucun étudiant sélectionné", "session": "1", "cours": [] },
-      { "id_etudiant": "01", "nom": "John Smith", "session": "1", "cours": ["Prog1"] },
-      { "id_etudiant": "02", "nom": "Alice Johnson", "session": "2", "cours": ["Prog", "SQL"] },
-      { "id_etudiant": "03", "nom": "Michael Brown", "session": "2", "cours": ["Programming", "Database"] },
-      { "id_etudiant": "04", "nom": "Emily Williams", "session": "1", "cours": ["Mathematics"] },
-      { "id_etudiant": "05", "nom": "James Jones", "session": "3", "cours": ["English", "History", "Geography"] },
-      { "id_etudiant": "06", "nom": "Emma Davis", "session": "3", "cours": ["Biology", "Chemistry"] },
-      { "id_etudiant": "07", "nom": "Olivia Taylor", "session": "1", "cours": ["Physics"] },
-      { "id_etudiant": "08", "nom": "William Wilson", "session": "2", "cours": ["Art", "Music"] },
-      { "id_etudiant": "09", "nom": "Sophia Brown", "session": "3", "cours": ["Computer Science", "Robotics"] }
-    ]
+[
+    {
+        "id_etudiant": "00",
+        "nom": "Aucun étudiant sélectionné",
+        "session": "1",
+        "cours": []
+    },
+    {
+        "id_etudiant": "01",
+        "nom": "John Smith",
+        "session": "1",
+        "cours": [
+            "Prog1"
+        ]
+    },
+    {
+        "id_etudiant": "02",
+        "nom": "Alice Johnson",
+        "session": "2",
+        "cours": [
+            "Prog",
+            "SQL"
+        ]
+    },
+    {
+        "id_etudiant": "03",
+        "nom": "Michael Brown",
+        "session": "2",
+        "cours": [
+            "Programming",
+            "Database"
+        ]
+    },
+    {
+        "id_etudiant": "04",
+        "nom": "Emily Williams",
+        "session": "1",
+        "cours": [
+            "Mathematics"
+        ]
+    },
+    {
+        "id_etudiant": "05",
+        "nom": "James Jones",
+        "session": "3",
+        "cours": [
+            "English",
+            "History",
+            "Geography"
+        ]
+    },
+    {
+        "id_etudiant": "06",
+        "nom": "Emma Davis",
+        "session": "3",
+        "cours": [
+            "Biology",
+            "Chemistry"
+        ]
+    },
+    {
+        "id_etudiant": "07",
+        "nom": "Olivia Taylor",
+        "session": "1",
+        "cours": [
+            "Physics"
+        ]
+    },
+    {
+        "id_etudiant": "08",
+        "nom": "William Wilson",
+        "session": "2",
+        "cours": [
+            "Art",
+            "Music"
+        ]
+    },
+    {
+        "id_etudiant": "09",
+        "nom": "Sophia Brown",
+        "session": "3",
+        "cours": [
+            "Computer Science",
+            "Robotics"
+        ]
+    }
+]
